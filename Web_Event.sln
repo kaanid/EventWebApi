@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_Event", "Web_Event\Web_Event.csproj", "{A8298FA5-45FC-4F5E-BA5B-A34269F95C8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weeb.Event", "Weeb.Event\Weeb.Event.csproj", "{53F4BC84-4436-46D7-BB4D-E256CB8C26D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weeb.EventBusSample", "Weeb.EventBusSample\Weeb.EventBusSample.csproj", "{021D0327-4384-48DD-9C95-330CB5612E67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weeb.EventDapperStore", "Weeb.EventDapperStore\Weeb.EventDapperStore.csproj", "{7D554CE7-736C-495A-89BD-A984FF507048}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weeb.EventHanderContent", "Weeb.EventHanderContent\Weeb.EventHanderContent.csproj", "{946EAD72-44A0-49E5-819D-0C76971D48AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weeb.RabbitMQEventBus", "Weeb.RabbitMQEventBus\Weeb.RabbitMQEventBus.csproj", "{24546720-8C40-4B9B-A4E4-EE50180DB21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8298FA5-45FC-4F5E-BA5B-A34269F95C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8298FA5-45FC-4F5E-BA5B-A34269F95C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8298FA5-45FC-4F5E-BA5B-A34269F95C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8298FA5-45FC-4F5E-BA5B-A34269F95C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F4BC84-4436-46D7-BB4D-E256CB8C26D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F4BC84-4436-46D7-BB4D-E256CB8C26D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F4BC84-4436-46D7-BB4D-E256CB8C26D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F4BC84-4436-46D7-BB4D-E256CB8C26D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021D0327-4384-48DD-9C95-330CB5612E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021D0327-4384-48DD-9C95-330CB5612E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021D0327-4384-48DD-9C95-330CB5612E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021D0327-4384-48DD-9C95-330CB5612E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D554CE7-736C-495A-89BD-A984FF507048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D554CE7-736C-495A-89BD-A984FF507048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D554CE7-736C-495A-89BD-A984FF507048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D554CE7-736C-495A-89BD-A984FF507048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946EAD72-44A0-49E5-819D-0C76971D48AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946EAD72-44A0-49E5-819D-0C76971D48AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946EAD72-44A0-49E5-819D-0C76971D48AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946EAD72-44A0-49E5-819D-0C76971D48AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24546720-8C40-4B9B-A4E4-EE50180DB21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24546720-8C40-4B9B-A4E4-EE50180DB21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24546720-8C40-4B9B-A4E4-EE50180DB21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24546720-8C40-4B9B-A4E4-EE50180DB21E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B68F1A23-15CD-4028-89E1-5EAEC1FF2208}
+	EndGlobalSection
+EndGlobal
